@@ -56,6 +56,15 @@
       font-size: 20px;
     }
   }
+  .link-disabled {
+    color: rgb(139, 139, 139);
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px;
+    @media only screen and (min-width:$cut){
+      font-size: 20px;
+    }
+  }
 }
 
 .header-icons {
