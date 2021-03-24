@@ -8,7 +8,7 @@
 }
 
 .tech {
-  margin: 10px;
+  margin: 15px;
 }
 
 .user {
@@ -30,4 +30,12 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+}
+
+.user-details-spec {
+  text-align: center;
+  margin: 2px auto;
+  h2 {
+    font-size: 1.75rem;
+  }
 }

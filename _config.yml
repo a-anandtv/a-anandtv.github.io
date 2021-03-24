@@ -1,13 +1,13 @@
 # Site settings
-title: A website to help you know Akash!
+title: A portfolio for Akash Anand
 description: A personal portfolio website of Akash Anand 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Akash Anand
-user_description: I am an experienced Data Warehousing and React, Javascript engineer with an agnostic skillset of programming in Python, C++ and R. Proficient in writing clean and organised code and a responsible team player. I also have strong proficiency in working on multiple relational and analytical databases and writing complex SQL queries to get insight and help team provide quicker and accurate analytical solutions. I am self motivated, experienced in problem-solving and praised for showing an innate ability to pick up any new technology quickly and also help the team, guiding them to be prepared with the same. I am looking forward to being part of a challenging yet exciting career. I hope you take this as a short insight into my profile and  give me a chance to present my skills to you. I’m happy to provide you with any additional information you might need.
-user_title: Machine Learning Engineer | Software Developer | Business Intelligence | Data Warehousing
+user_description: I am an experienced Data Warehousing and React, Javascript engineer with a proven skillset of programming in Python, C++ and R. I am proficient in writing clean and organised code and a responsible team player. I have strong proficiency in working on multiple relational and analytical databases and writing complex SQL queries for data validation and provide quicker and accurate analytical solutions. Through my coursework I have further deepened my understanding of Deep Learning, Machine Learning, Statistics and Signal Processing. I am self motivated, experienced in problem-solving and praised for showing an innate ability to pick up any new technology quickly. 
+user_title: Machine Learning Engineer | Software Developer | Data Engineer | Business Intelligence 
 email: tv.akash@gmail.com
 twitter_username: akash_tv
 github_username:  a-anandtv
