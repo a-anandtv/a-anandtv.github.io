@@ -1,8 +1,10 @@
-# Personal portfolio developed based on the Particle Jekyll Theme
+# Personal portfolio [based on the Particle Jekyll Theme]
+
+View the site [here](https://akashanand.me)
 
 ![](./particle.jpg)
 
-## For further details
+### For further details on the template
 
 [Click here](https://github.com/nrandecker/particle)
 
